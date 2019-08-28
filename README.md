@@ -1,2 +1,0 @@
-# Ozgur
-Created with CodeSandbox
